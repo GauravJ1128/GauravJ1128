@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+![logo](https://cloud.google.com/blog/products/ai-machine-learning/how-steel-distributor-reinvents-its-data-science-ml-workflows-vertex-ai/)
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate devops engineer from India</h3>
 
